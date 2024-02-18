@@ -31,7 +31,7 @@ This was a capstone project exploring air quality and asthma in Utah for my Data
 ***Sustainabilty in Business Research Paper***
 [Google Doc](https://drive.google.com/file/d/14JBzJN08_mXWFBI2OFlYtthiJ7mgI9Qy/view?usp=sharing)
 
-This was my final project for the MBA Capstone course at the University of South Florida. I researched trends in sustainability impacting the automotive sector and recommendations for automotive companies reagarding sustainability including: incorporating the circular economy, transitioning to service models, and pursuing a Just Transition along with DEI goals. 
+This was my final project for the MBA Capstone course at the University of South Florida. I researched trends in sustainability impacting the automotive sector and recommendations for automotive companies regarding sustainability, including: incorporating the circular economy, transitioning to service models, and pursuing a Just Transition along with DEI goals. 
 
 ***MicroEconomics Research on the TP Crisis During Covid*** 
 [Google Doc](https://docs.google.com/document/d/15i6Zs_YJrSN0SLLzvgYWWkyL3NXoLe7r/edit?usp=sharing&ouid=102356647512676017206&rtpof=true&sd=true)
