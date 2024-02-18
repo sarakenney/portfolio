@@ -3,7 +3,7 @@ My portfolio for data analytics and business analysis.
 
 Connect with me on [LinkedIn!](https://www.linkedin.com/in/kenneysara/)
 
-### Technical Skills: Tableau, Power BI, R programming, and SQL
+### Technical Skills: ArcGIS, Tableau, Power BI, R programming, and SQL
 
 ## Education & Training
 - MBA, Data Analytics specialization @ University of South Florida  
@@ -36,3 +36,8 @@ This was my final project for the MBA Capstone course at University of South Flo
 [Google Doc](https://docs.google.com/document/d/15i6Zs_YJrSN0SLLzvgYWWkyL3NXoLe7r/edit?usp=sharing&ouid=102356647512676017206&rtpof=true&sd=true)
 
 This is a microeconomics paper exploring the economic causes of the toilet paper crisis in the US during the Covid-19 pandemic. A variety of factors lead to the national shortage of toilet paper including the reduced demand for commercial TP due to quarantine and more people working from home. I concluded that toilet paper prices will continue to rise as demand has become more inelastic and less reactive to price increases. 
+
+***Glass Ceiling Data Analysis***
+[Google Doc](https://docs.google.com/document/d/0Bxn1PPowLvJiUU5MZ3ViVVJlUFdMU05ZaXFOVS1kTS16Um9J/edit?usp=sharing&ouid=102356647512676017206&resourcekey=0-BnJpvGbnZyoLTPyIQTg6kQ&rtpof=true&sd=true)
+
+In this paper, I use Census Bureau and American Community Survey data to answer questions about why women continue to face a gender pay gap in the United States. I conducted regression analysis as well as geospatial analysis in ArcGIS to better understand and visualize the data. I found that women make less than men across all industries, but even more so in financial activities, mining, and manufacturing. These were the three worst industries for women’s earnings as a percentage of men’s earnings. Also, women tended to make up a greater percentage of the workforce in the industries with pay gaps above the average, potentially indicating fewer women in leadership positions.
