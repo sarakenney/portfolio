@@ -25,6 +25,7 @@ This was a capstone project exploring air quality and asthma in Utah for my Data
 
 *Written Summary of the Project:* [Google Doc](https://docs.google.com/document/d/1vQtRdin5m99GGXIzPnmrA4TaEvw9Y8xc/edit?usp=sharing&ouid=102356647512676017206&rtpof=true&sd=true)
 
+![Asthma Dashboard](/assets/asthma_tableau.png)
 ## Writing Samples
 
 ***Sustainabilty in Business Research Paper***
