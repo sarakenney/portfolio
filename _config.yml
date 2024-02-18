@@ -1,3 +1,7 @@
 # add the following to _config.yml file
-title: YOUR NAME
-remote_theme: pages-themes/minimal
+
+title: Sara Kenney
+logo: /assets/img/headshot_circle.png
+#description: text below image
+show_downloads: true
+remote_theme: pages-themes/
