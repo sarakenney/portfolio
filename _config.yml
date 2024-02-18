@@ -2,7 +2,7 @@
 
 title: Sara Kenney
 logo: /assets/headshot.png
-#description: text below image
+description: My portfolio
 show_downloads: true
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
