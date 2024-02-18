@@ -1,7 +1,7 @@
 # add the following to _config.yml file
 
 title: Sara Kenney
-logo: /assets/img/headshot_circle.png
+logo: /assets/headshot.png
 #description: text below image
 show_downloads: true
 remote_theme: pages-themes/
